@@ -10,7 +10,6 @@
 /build
 
 app.yaml
-.gitignore
 .gcloudignore
 
 # misc
