@@ -1,38 +1,51 @@
+# AntD Table 📋
 
-# AntD Table
+An app that allows you to store event data in a searchable table.
 
-A practicing project.
+<br>
 
-
-## 🛠 Tools
-Javascript, Ant Design, React, Jest, and JSON-Server.
-
-
-## Features
+## Features ⭐
 
 - Create entry with form validation feature
 - Edit entry with confirmation popup
 - Delete entry with confirmation popup
-- Search entries feature that auto-updates the table data
+- Search entries feature that auto-updates the table data as you type
 
 
-## Lessons Learned
+<br>
 
-Learned how to use Ant Design library and it's components to quickly build an interactive UI.
+## Lessons Learned 📓
 
+- Learned using Ant Design to rapidly build UI
+- Practicied using React and Jest
+- Practiced using JSON-server to mockup CRUD operations
+
+
+<br>
+
+## Tech Stack ⚙️
+
+**Frontend:** React, Ant Design
+
+**Backend:** JSON-Server
+
+**Testing:** Jest JS
+
+
+<br>
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone [project-link]
+  git clone [link-to-project]
 ```
 
 Go to the project directory
 
 ```bash
-  cd [my-project-folder]
+  cd my-project
 ```
 
 Install dependencies
